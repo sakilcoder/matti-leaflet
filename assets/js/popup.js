@@ -1,5 +1,5 @@
 var popupOptions ={
     autoPan: false,
-    closeButton: false,
+    closeButton: true,
     className : 'popupCustom',
 } 
